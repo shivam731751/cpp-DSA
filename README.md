@@ -12,6 +12,7 @@ cpp for dsa practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivam731751/cpp-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivam731751/cpp-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shivam731751/cpp-DSA/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/shivam731751/cpp-DSA/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,12 @@ cpp for dsa practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shivam731751/cpp-DSA/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivam731751/cpp-DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivam731751/cpp-DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
