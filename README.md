@@ -39,4 +39,12 @@ cpp for dsa practice
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivam731751/cpp-DSA/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivam731751/cpp-DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shivam731751/cpp-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
