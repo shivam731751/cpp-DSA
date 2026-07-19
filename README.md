@@ -36,6 +36,7 @@ cpp for dsa practice
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shivam731751/cpp-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/shivam731751/cpp-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shivam731751/cpp-DSA/tree/master/0268-missing-number) |
 ## Sorting
@@ -62,9 +63,11 @@ cpp for dsa practice
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shivam731751/cpp-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shivam731751/cpp-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shivam731751/cpp-DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/shivam731751/cpp-DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
